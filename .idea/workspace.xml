@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd36e126-a37a-4bab-a0cc-213a1ab9d4b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desarrollo de Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/VentanaA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/VentanaB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/VentanaC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/minion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioCalculadora/MainCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioCalculadora/Panel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioExtra/minion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioExtra/ventanaAñadeQuita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EventoSaludo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiVentana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiVentana2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaludoEvento/EventoSaludo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaludoEvento/MainEventoSaludo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaludoEvento/MiVentana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VentanaBoton/BotonVentana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VentanaBoton/EventoBotonPulsado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VentanaBoton/MainEventoBoton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VentanaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/minion.png" afterDir="false" />
+    <list default="true" id="dd36e126-a37a-4bab-a0cc-213a1ab9d4b6" name="Changes" comment="2-DAM_Desarrollo_de_Interfaces">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejer_Sube_nota/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejer_Sube_nota/VentanaA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/VentanaA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,23 +75,10 @@
       <recent name="Ejer_Sube_nota" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainCalc">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GUICalculator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GUICalculator" />
       <module name="Desarrollo de Interfaces" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GUICalculator (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjercicioCalculadora.GUICalculator" />
-      <module name="Desarrollo de Interfaces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EjercicioCalculadora.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,6 +129,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejer_Sube_nota.Main" />
+      <module name="Desarrollo de Interfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejer_Sube_nota.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjercicioCalculadora.MainCalc" />
       <module name="Desarrollo de Interfaces" />
@@ -206,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainCalc" />
         <item itemvalue="Application.GUICalculator (4)" />
         <item itemvalue="Application.GUICalculator (1)" />
         <item itemvalue="Application.VentanaTest" />
-        <item itemvalue="Application.GUICalculator (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,8 +197,16 @@
       <workItem from="1668104012472" duration="6942000" />
       <workItem from="1668447456106" duration="4554000" />
       <workItem from="1668534332058" duration="13487000" />
-      <workItem from="1669047243208" duration="1424000" />
+      <workItem from="1669047243208" duration="2177000" />
     </task>
+    <task id="LOCAL-00001" summary="2-DAM_Desarrollo_de_Interfaces">
+      <created>1669048877466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669048877466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,5 +222,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2-DAM_Desarrollo_de_Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-DAM_Desarrollo_de_Interfaces" />
   </component>
 </project>

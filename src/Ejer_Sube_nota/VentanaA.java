@@ -5,7 +5,6 @@ import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-
 class VentanaA extends JFrame {
 
     static JLabel etiquetaA;
@@ -60,7 +59,6 @@ class VentanaA extends JFrame {
 
     public static JTextField getTexto() {
         return texto;
-
     }
 
     public static JLabel getEtiqueta() {
