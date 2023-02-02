@@ -1,9 +1,5 @@
 package Curso.Parking.modelo;
 
-/**
- * @author Openwebinars
- *
- */
 public class Furgoneta extends Curso.Parking.modelo.Vehiculo {
 	
 	private float longitud;

@@ -2,11 +2,8 @@ package Curso.Parking.modelo;
 
 import java.time.LocalDateTime;
 
-
 public class Vehiculo {
-	
-	// Dejamos las propiedades como protected de forma did�ctica, aunque su uso no est� muy recomendado
-	// Ser�a m�s recomendable que fuera private, y acceder desde las clases hija mediante getters/setters
+
 	protected String matricula;
 	protected String marca;
 	protected LocalDateTime fechaEntrada;

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import parking.utils.Utils;
+import Curso.Parking.utils.Utils;
 
 
 public class Parking {
@@ -190,9 +190,4 @@ public class Parking {
 		
 		++plazasDisponibles;
 	}
-	
-	
-	
-	
-
 }

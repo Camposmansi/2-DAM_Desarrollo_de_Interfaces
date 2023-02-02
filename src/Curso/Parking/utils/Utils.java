@@ -1,20 +1,15 @@
-/**
- * Clase con métodos auxiliares
- */
-package parking.utils;
+
+package Curso.Parking.utils;
 
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 import java.util.Random;
 
-/**
- * @author Openwebinars
- *
- */
+
 public class Utils {
 	
 	/*
-	 * Este método nos devuelve una instancia de LocalDateTime aleatoria,
+	 * Este metodo nos devuelve una instancia de LocalDateTime aleatoria,
 	 * anterior a la fecha y hora actual, pero no muy lejana (en el intervalo
 	 * de entre 2 y 6 horas).
 	 */
@@ -24,11 +19,11 @@ public class Utils {
 	}
 	
 	/*
-	 * Nos devuelve la duración en minutos entre dos fechas
+	 * Nos devuelve la duracion en minutos entre dos fechas
 	 */
 	public static int minutosEntreDosFechas(LocalDateTime anterior, LocalDateTime posterior) {
-		// Le sumamos un minuto a posterior, ya que al usar el método between, la fecha
-		// más reciente es exclusiva.
+		// Le sumamos un minuto a posterior, ya que al usar el mï¿½todo between, la fecha
+		// mï¿½s reciente es exclusiva.
 		posterior = posterior.plusMinutes(1L);
 		// Devolvemos la diferencia entre ambas fechas en minutos
 		return (int) ChronoUnit.MINUTES.between(anterior, posterior); 
@@ -43,7 +38,7 @@ public class Utils {
 		int decenas = n / 10;
 		int fila, columna;
 
-		// Este cálculo tenemos que hacerlo por la forma
+		// Este calculo tenemos que hacerlo por la forma
 		// en que hemos "dibujado" las plazas en el parking
 		// Si n % 10 == 0 
 		//    la decena es impar -> [9][decena-1]

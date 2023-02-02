@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd36e126-a37a-4bab-a0cc-213a1ab9d4b6" name="Changes" comment="2-DAM_Desarrollo_de_Interfaces">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Curso/Calculadora/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Curso/HundirFlota/HundirLaFlota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioCalculadora/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioCalculadora/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioCalculadora/VentanaCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/ButtonAndTextFieldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/CuentaPalabras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/DynamicRegForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/HiloEj2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/RegistrationFormGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/ThreeButtonsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/TwoButtonsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/WordCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/WordCounter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebasGUI/pruebasGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texto.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desarrollo de Interfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Desarrollo de Interfaces.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejer_Sube_nota/VentanaA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejer_Sube_nota/VentanaA.java" afterDir="false" />
-    </list>
+    <list default="true" id="dd36e126-a37a-4bab-a0cc-213a1ab9d4b6" name="Changes" comment="2-DAM_Desarrollo_de_Interfaces" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,42 +30,44 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2GPKz7qBOZJSFNsAUzaZiqZcE8Q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Usuarios/Campos/IdeaProjects/Desarrollo de Interfaces/src/EjercicioCalculadora&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3770115&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Usuarios/Campos/IdeaProjects/Desarrollo de Interfaces/src/EjercicioCalculadora",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.3770115",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ],
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="EjercicioExtra" />
@@ -230,7 +206,7 @@
       <workItem from="1675093686798" duration="1173000" />
       <workItem from="1675095189178" duration="2468000" />
       <workItem from="1675128489689" duration="31000" />
-      <workItem from="1675365571148" duration="769000" />
+      <workItem from="1675365571148" duration="983000" />
     </task>
     <task id="LOCAL-00001" summary="2-DAM_Desarrollo_de_Interfaces">
       <created>1669048877466</created>
@@ -246,7 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669049471786</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2-DAM_Desarrollo_de_Interfaces">
+      <created>1675366516345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675366516345</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2-DAM_Desarrollo_de_Interfaces">
+      <created>1675366536889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675366536889</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +254,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2-DAM_Desarrollo_de_Interfaces" />
     <option name="LAST_COMMIT_MESSAGE" value="2-DAM_Desarrollo_de_Interfaces" />
   </component>
