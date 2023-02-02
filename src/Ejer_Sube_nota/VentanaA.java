@@ -9,7 +9,6 @@ class VentanaA extends JFrame {
 
     static JLabel etiquetaA;
     static JTextField texto;
-
     private final JButton botonB;
     private final JButton botonC;
 
