@@ -4,8 +4,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Objects;
 
-public class ventanaAñadeQuita implements ActionListener {
+public class ventanaAnadeQuita implements ActionListener {
 
     private JLabel label = new JLabel("Añade o quita un boton");
     private JLabel vacio = new JLabel("");
@@ -16,7 +17,7 @@ public class ventanaAñadeQuita implements ActionListener {
     JButton buttonA;
     JButton buttonQ;
 
-    public ventanaAñadeQuita() {
+    public ventanaAnadeQuita() {
         // el botón
         button = new JButton("Añadir Nuevo");
         button.addActionListener(this);
@@ -39,7 +40,7 @@ public class ventanaAñadeQuita implements ActionListener {
 
 
         // configura el marco y muéstralo
-        Image icon = new ImageIcon(getClass().getResource("minion.png")).getImage();
+        Image icon = new ImageIcon(Objects.requireNonNull(getClass().getResource("minion.png"))).getImage();
         frame.setIconImage(icon);
         frame.setResizable(false);
         frame.add(panel, BorderLayout.CENTER);
@@ -67,6 +68,6 @@ public class ventanaAñadeQuita implements ActionListener {
     }
 
     public static void main(String[] args) {
-        new ventanaAñadeQuita();
+        new ventanaAnadeQuita();
     }
 }
